@@ -1,0 +1,29 @@
+[
+	{
+		"precio": 90000,
+		"id": 1,
+		"title": "Burton RipCord 2022",
+		"thumbnailUrl": "imgs/Burton.jpg"
+	},
+
+	{
+		"precio": 160000,
+		"id": 2,
+		"title": "Salomon The Villain 2022",
+		"thumbnailUrl": "imgs/Salomon.jpg"
+	},
+
+	{
+		"precio": 200000,
+		"id": 3,
+		"title": "Jones Super 8",
+		"thumbnailUrl": "imgs/Jones.jpg"
+	},
+
+	{
+		"precio": 350000,
+		"id": 4,
+		"title": "Santa Cruz Craft 2022",
+		"thumbnailUrl": "imgs/Santacruz.jpg"
+	}
+]
